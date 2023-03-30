@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/Horizontal_Title"
+        android:layout_width="376dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_blue_dark"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text=" " />
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="176dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/mp7img" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text=" " />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/Title"
+                android:layout_width="119dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@android:color/holo_blue_dark"
+                android:gravity="center"
+                android:text="ProbabilityTest"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text=" " />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Search_Button_Horizontal"
+        android:layout_width="396dp"
+        android:layout_height="26dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="horizontal">
+
+        <SearchView
+            android:id="@+id/Search_Bar"
+            android:layout_width="227dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/background_light" />
+
+        <Button
+            android:id="@+id/Search_Button"
+            android:layout_width="31dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="#b3dafb"
+            android:text="Search"
+            tools:text="Search" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="131dp"
+        android:layout_weight="1"
+        android:background="#b3dafb"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/Search_Body"
+            android:layout_width="match_parent"
+            android:layout_height="193dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Phrase_Searched"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Phrase"
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                tools:text="                                                 Phrase" />
+
+            <TextView
+                android:id="@+id/Definition_Phrase"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:text="    Meaning : BLAH definition of the word provided here"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+            <TextView
+                android:id="@+id/Intro_to_Example"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="    Examples of use :"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/bullet_point"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0"
+                    android:gravity="top"
+                    android:text="    " />
+
+                <TextView
+                    android:id="@+id/Example_Sentence"
+                    android:layout_width="336dp"
+                    android:layout_height="82dp"
+                    android:layout_weight="0"
+                    android:text="   This would be an example of how the phrase would be used in a sentence. we can even add a picture to help the reader visualise the phrase if that is possible. "
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+                <TextView
+                    android:id="@+id/bullet_point2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0"
+                    android:gravity="top"
+                    android:text="    " />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Pissibility_Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        android:background="#b3dafb"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/Possibility"
+            android:layout_width="398dp"
+            android:layout_height="78dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="          FREQUENCY :        (out of what, not actually a percent)"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            tools:text="          FREQUENCY :" />
+
+        <TextView
+            android:id="@+id/Possibility_Percentage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="100%"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+            tools:text="100%" />
+
+    </LinearLayout>
+
+</LinearLayout>

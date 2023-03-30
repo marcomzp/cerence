@@ -1,0 +1,849 @@
+[
+  {
+    "expression": "かたがた",
+    "meaning": "while; for the purpose of",
+    "frequency": 4,
+    "example": "ごあいさつかたがた、お伺いしました。",
+    "example_translation": "I came to say hello."
+  },
+  {
+    "expression": "かたわら",
+    "meaning": "while; at the same time",
+    "frequency": 6,
+    "example": "彼は教師の仕事をするかたわら小説を書いている。",
+    "example_translation": "He’s a teacher and at the same time a novelist."
+  },
+  {
+    "expression": "がてら",
+    "meaning": "while, at the same time",
+    "frequency": 6,
+    "example": "友達を駅まで送りがてら本屋に行ってきた。",
+    "example_translation": "I dropped my friend off at the station and also dropped by a bookstore."
+  },
+  {
+    "expression": "がはやいか",
+    "meaning": "as soon as",
+    "frequency": 1,
+    "example": "電車が着くが早いか、乗客は先を競って乗り込んだ。",
+    "example_translation": "As soon as the train arrived, the passengers fought their way in."
+  },
+  {
+    "expression": "そばから",
+    "meaning": "as soon as",
+    "frequency": 5,
+    "example": "言ったそばから彼女は後悔した。",
+    "example_translation": "She was sorry for that speech the minute it was made."
+  },
+  {
+    "expression": "なり",
+    "meaning": "as soon as",
+    "frequency": 0,
+    "example": "言ったそばから彼女は後悔した。",
+    "example_translation": "She was sorry for that speech the minute it was made."
+  },
+  {
+    "expression": "や否や",
+    "meaning": "as soon as",
+    "frequency": 3,
+    "example": "彼が家から出てゆくやいなや、例の旅の男がはいってきた。",
+    "example_translation": "As soon as he left the house, that traveler came in."
+  },
+  {
+    "expression": "てからというもの",
+    "meaning": "after; since",
+    "frequency": 8,
+    "example": "彼女の料理の腕は、ネックレスをあげてからというもの劇的に進歩した。",
+    "example_translation": "The quality of her cooking has improved dramatically ever since I has given her the necklace."
+  },
+  {
+    "expression": "を限りに",
+    "meaning": "starting from",
+    "frequency": 2,
+    "example": "今日を限りにタバコをやめることにした。",
+    "example_translation": "I’ve decided to quit smoking starting from today."
+  },
+  {
+    "expression": "を皮切りに",
+    "meaning": "startting with",
+    "frequency": 3,
+    "example": "彼の発案に皮切りとして、熱心な討議が始まった。",
+    "example_translation": "Starting with his suggestion, a debate broke out enthusiastically."
+  },
+  {
+    "expression": "をもって",
+    "meaning": "by means of; with",
+    "frequency": 26,
+    "example": "敬意をもって接してくれるだろうな。",
+    "example_translation": "You will treat him with respect?"
+  },
+  {
+    "expression": "がさいご",
+    "meaning": "once something occurs",
+    "frequency": 4,
+    "example": "信用というものは、いったん失ったが最後、取り戻すのは難しい。",
+    "example_translation": "Trust is something that can’t be restored once lost."
+  },
+  {
+    "expression": "ことなし",
+    "meaning": "without doing something",
+    "frequency": 2,
+    "example": "努力することなしに、成功を勝ち取ることは難しい。",
+    "example_translation": "It’s hard to become successful without putting any effort."
+  },
+  {
+    "expression": "とあれば",
+    "meaning": "if it is the case that",
+    "frequency": 1,
+    "example": "望みとあれば来るがよかろう。",
+    "example_translation": "You can come if you want."
+  },
+  {
+    "expression": "ともなると",
+    "meaning": "once something occurs",
+    "frequency": 8,
+    "example": "休日ともなると、朝から観光客の車で道路が渋滞する。",
+    "example_translation": "Once the holiday begins the roads will be jammed with tourists’ cars."
+  },
+  {
+    "expression": "なくして",
+    "meaning": "without",
+    "frequency": 10,
+    "example": "君は何も理由なくしてその場にいるということはない。",
+    "example_translation": "You are very rarely there for no good reason."
+  },
+  {
+    "expression": "なしに",
+    "meaning": "without",
+    "frequency": 20,
+    "example": "彼が何の予告もなしに立ち上って、話をはじめた。",
+    "example_translation": "Without any previous warning, he stood up and made his speech."
+  },
+  {
+    "expression": "ならでは",
+    "meaning": "tyical of",
+    "frequency": 12,
+    "example": "全国各地にその地方ならではの名産がある。",
+    "example_translation": "Every region of the country has its own unique product."
+  },
+  {
+    "expression": "こととて",
+    "meaning": "even if",
+    "frequency": 5,
+    "example": "急なこととて、なにもご用意できなくて",
+    "example_translation": "Because it was so sudden, I couldn’t prepare anything…"
+  },
+  {
+    "expression": "ではあるまいし",
+    "meaning": "it's not like",
+    "frequency": 7,
+    "example": "子供じゃあるまいし、もう泣くのをよして。",
+    "example_translation": "Stop crying already. You are not a kid."
+  },
+  {
+    "expression": "とあって",
+    "meaning": "because of",
+    "frequency": 12,
+    "example": "セールとあって、この店は大勢の客で混んでいる。",
+    "example_translation": "This store is packed with customers because of the sale."
+  },
+  {
+    "expression": "べく",
+    "meaning": "must; should",
+    "frequency": 15,
+    "example": "彼はサッカー選手になるべく、毎日厳しい練習をしている。",
+    "example_translation": "He’s been practicing hard every day in order to become a soccer player."
+  },
+  {
+    "expression": "ゆえ",
+    "meaning": "for a reason",
+    "frequency": 18,
+    "example": "悪天候ゆえに旅行は延期された。",
+    "example_translation": "The trip has been postponed due to bad weather."
+  },
+  {
+    "expression": "たところ",
+    "meaning": "even so",
+    "frequency": 0,
+    "example": "駅に問い合わせたところ、忘れ物は届いていた",
+    "example_translation": "When I asked at the station, the thing that I had forgotten had been turned in."
+  },
+  {
+    "expression": "であれ",
+    "meaning": "even if",
+    "frequency": 10,
+    "example": "正社員であれパートであれ、仕事に対する責任は変わりません。",
+    "example_translation": "You must have the same responsibility whether you’re a full-time employee or a part-time worker."
+  },
+  {
+    "expression": "といえども",
+    "meaning": "even",
+    "frequency": 3,
+    "example": "彼といえども、我々と同様に弱みがある。",
+    "example_translation": "He has weaknesses like the rest of us."
+  },
+  {
+    "expression": "と思いきや",
+    "meaning": "I though",
+    "frequency": 3,
+    "example": "前進を続けると思いきや、リーダーは退却の命令を発した。",
+    "example_translation": "I thought we’d advance, but our leader ordered us to retreat."
+  },
+  {
+    "expression": "ところを",
+    "meaning": "about to",
+    "frequency": 13,
+    "example": "お忙いそがしいところをすみません。",
+    "example_translation": "I am sorry to bother you at this busy time."
+  },
+  {
+    "expression": "としたところで",
+    "meaning": "even if",
+    "frequency": 2,
+    "example": "そんなことを言って、僕に遠慮させようとしたってムダだ！",
+    "example_translation": "Don’t try to make me feel guilty, it won’t work!"
+  },
+  {
+    "expression": "とはいえ",
+    "meaning": "even so",
+    "frequency": 22,
+    "example": "とはいえ、今夜よい機会を与えてくださって感謝しています。",
+    "example_translation": "Nonetheless, I am grateful that you would provide me this opportunity tonight."
+  },
+  {
+    "expression": "ながらも",
+    "meaning": "while, at the same time",
+    "frequency": 9,
+    "example": "あの人は体が小さいながらも、なかなか力がある。",
+    "example_translation": "That person is small but he’s strong."
+  },
+  {
+    "expression": "ものを",
+    "meaning": "If only",
+    "frequency": 190,
+    "example": "一言声をかけてくれれば手伝ったものを。",
+    "example_translation": "If only you had call out to me, I would have helped you."
+  },
+  {
+    "expression": "ようが",
+    "meaning": "no matter how",
+    "frequency": 425,
+    "example": "誰が何と言おうと、わたしの決意は変わりません。",
+    "example_translation": "I won’t change my mind no matter what people say."
+  },
+  {
+    "expression": "いかん",
+    "meaning": "depending on",
+    "frequency": 8,
+    "example": "試験の結果いかんでは、卒業できないこともある。",
+    "example_translation": "You may not be able to graduate depending on your test results."
+  },
+  {
+    "expression": "いかんによらず",
+    "meaning": "regardless of",
+    "frequency": 1,
+    "example": "理由のいかんによらず、殺人は許されないことだ。",
+    "example_translation": "Murder for any reason is unforgivable."
+  },
+  {
+    "expression": "とあいまって",
+    "meaning": "along with",
+    "frequency": 3,
+    "example": "環境破壊と相まって、水や空気の汚染が進んでいる。",
+    "example_translation": "Because of environmental destruction, water and air pollution are getting worse."
+  },
+  {
+    "expression": "にかかわる",
+    "meaning": "in relation to",
+    "frequency": 9,
+    "example": "それは、個人の名誉にかかわる問題だ。",
+    "example_translation": "That is a problem that involves a person’s reputation."
+  },
+  {
+    "expression": "をものともせずに",
+    "meaning": "without basis",
+    "frequency": 0,
+    "example": "彼は危険をものともせずに、行方不明の子の捜索を続けた。",
+    "example_translation": "He continued searching for the missing boy ignoring all risks."
+  },
+  {
+    "expression": "をよそに",
+    "meaning": "despite",
+    "frequency": 11,
+    "example": "丸子は、親の心配をよそに、遊んでばかりいる。",
+    "example_translation": "Maruko is always playing without knowing how worried her parents are."
+  },
+  {
+    "expression": "のみならず",
+    "meaning": "besides",
+    "frequency": 8,
+    "example": "改良されていたリンゴは、形のみならず味もよい。",
+    "example_translation": "The improved apples not only have good shape but also taste good."
+  },
+  {
+    "expression": "ないまでも",
+    "meaning": "even if something is not done",
+    "frequency": 12,
+    "example": "プロにはなれないまでも、サッカーを続けていくつもりだ。",
+    "example_translation": "I will continue playing soccer even if I can’t become a professional player."
+  },
+  {
+    "expression": "にひきかえ",
+    "meaning": "in contrast to",
+    "frequency": 11,
+    "example": "わたしがきれい好きなのにひきかえ、妹はいつも部屋を散らかしている。",
+    "example_translation": "While I love cleanliness, my sister always turns her room into a mess."
+  },
+  {
+    "expression": "にもまして",
+    "meaning": "more than",
+    "frequency": 0,
+    "example": "彼女は前にもまして元気なくうなずいた。",
+    "example_translation": "She nodded more dejectedly than ever."
+  },
+  {
+    "expression": "はおろうか",
+    "meaning": "not to mention",
+    "frequency": 0,
+    "example": "腰を痛めてしまい、歩くことはおろか立つことも難しい。",
+    "example_translation": "I hurt my back so it’s hard to stand up, let alone walk."
+  },
+  {
+    "expression": "もさることながら",
+    "meaning": "not only",
+    "frequency": 3,
+    "example": "このノートパソコンは、価格もさることながら、デザインがよいので人気がある。",
+    "example_translation": "This laptop is popular because it not only has reasonable price but also good design."
+  },
+  {
+    "expression": "であれ",
+    "meaning": "even",
+    "frequency": 10,
+    "example": "晴天であれ雨天であれ遠足は予定どおり行く。",
+    "example_translation": "We’ll go on our trip as planned, rain or shine."
+  },
+  {
+    "expression": "といいといい",
+    "meaning": "and; or",
+    "frequency": 22,
+    "example": "その驚きようといい、悲しげなようすといい、全く自然と思われるほど巧みに演じられた。",
+    "example_translation": ""
+  },
+  {
+    "expression": "ようがまいが",
+    "meaning": "whether or not",
+    "frequency": 3,
+    "example": "デザインといい、色といい、すごく気に入った靴があったんだけど、サイズがなかった。",
+    "example_translation": "I liked the design and colour of many shoes but they didn’t have ones in my size."
+  },
+  {
+    "expression": "ごとき",
+    "meaning": "like; as if",
+    "frequency": 13,
+    "example": "今回のごとき事件は二度と起こしてはならない。",
+    "example_translation": "We can’t let something like this happen again."
+  },
+  {
+    "expression": "すくめ",
+    "meaning": "enterily",
+    "frequency": 0,
+    "example": "今日は朝からいいことずくめで幸せな気分だ。",
+    "example_translation": "Good things have been happening to me since this morning."
+  },
+  {
+    "expression": "っぱなし",
+    "meaning": "levaving something in use",
+    "frequency": 3,
+    "example": "電車が混んでいて、東京まで立ちっぱなしだった。",
+    "example_translation": "The train was crowded so I had to stand all the way to Tokyo."
+  },
+  {
+    "expression": "とばかりに",
+    "meaning": "as if; as though",
+    "frequency": 5,
+    "example": "彼はお話にもならないとばかりに、肩をすくめてみせた。",
+    "example_translation": "He shrugged his shoulder as if to say that’s out of the question."
+  },
+  {
+    "expression": "ともかく",
+    "meaning": "whether or not; nevermind; regardless of; not to mentio",
+    "frequency": 13,
+    "example": "値段はともかく、デザインのほうが気に入った。",
+    "example_translation": "Nevermind the price, I’m more interested in the design."
+  },
+  {
+    "expression": "なりに",
+    "meaning": "in its own way",
+    "frequency": 37,
+    "example": "わたしにはわたしなりの理由があっての事だったんです。",
+    "example_translation": "I had my reasons for acting as I did."
+  },
+  {
+    "expression": "ながらに",
+    "meaning": "while, during",
+    "frequency": 3,
+    "example": "人間は生まれながらにして平等である。",
+    "example_translation": "All men are created equal."
+  },
+  {
+    "expression": "にあって",
+    "meaning": "in; on; at; during; in the condition of",
+    "frequency": 11,
+    "example": "彼は自らのつらい体験を涙ながらに語った。",
+    "example_translation": "He was rather disconcerted at this uncompromising refusal."
+  },
+  {
+    "expression": "にいたる",
+    "meaning": "as far as",
+    "frequency": 11,
+    "example": "東京に至るまで",
+    "example_translation": "as far as tokyo"
+  },
+  {
+    "expression": "にそくして",
+    "meaning": "to agree with; in keeping with; to be based on",
+    "frequency": 3,
+    "example": "違反者は、法律に即して処分されます。",
+    "example_translation": "Offenders will be punished according to the law."
+  },
+  {
+    "expression": "にたえない",
+    "meaning": "cannot do something",
+    "frequency": 0,
+    "example": "わたしは動物がいじめられているのは見るにたえない。",
+    "example_translation": "I can’t bear to see animals being abused."
+  },
+  {
+    "expression": "に足る",
+    "meaning": "to be enough; to be worthy of",
+    "frequency": 1,
+    "example": "僕がちょっと君を驚かすに足る材料を入手し得た。",
+    "example_translation": "I have quite a budget which will considerably surprise you."
+  },
+  {
+    "expression": "まみれ",
+    "meaning": "full of",
+    "frequency": 4,
+    "example": "箱の中に血まみれのナイフがある。",
+    "example_translation": "There’s a blood-stained knife inside the box."
+  },
+  {
+    "expression": "めく",
+    "meaning": "to show signs of; to have the appearance of",
+    "frequency": 10,
+    "example": "簡単でむずかしいとは、なんだかすこし逆説めいているぜ。",
+    "example_translation": "Simple yet difficult, that sounds a little paradoxical."
+  },
+  {
+    "expression": "んばかりだ",
+    "meaning": "as if; as though",
+    "frequency": 4,
+    "example": "彼女は胸もはり裂けんばかりにわっと泣きくずれた。",
+    "example_translation": "She cried as though her heart would break."
+  },
+  {
+    "expression": "あっての",
+    "meaning": "which owes everything to; which can exist solely due to the presence of",
+    "frequency": 4,
+    "example": "どんな小さな成功も努力あってのことだ。",
+    "example_translation": "Even a small achievement can’t be gained without hard work."
+  },
+  {
+    "expression": "からある",
+    "meaning": "as much as; as many as",
+    "frequency": 33,
+    "example": "そのデモには２０万人からの人が参加したそうだ。",
+    "example_translation": "I heard that as many as 200,000 people participated in that strike."
+  },
+  {
+    "expression": "ごとき",
+    "meaning": "like; as if; the same as",
+    "frequency": 7,
+    "example": "今回のごとき事件は二度と起こしてはならない。",
+    "example_translation": "We can’t let something like this happen again."
+  },
+  {
+    "expression": "ですら",
+    "meaning": "even",
+    "frequency": 19,
+    "example": "その日は一日じゅう、誕生日祝いのことばすらかけてもらえなかった。",
+    "example_translation": "They didn’t even wish me happy birthday all day."
+  },
+  {
+    "expression": "だに",
+    "meaning": "even",
+    "frequency": 15,
+    "example": "思い出すだに怒りで熱くなる。",
+    "example_translation": "The memory of it makes me feel hot with anger."
+  },
+  {
+    "expression": "たりとも",
+    "meaning": "not even; not any",
+    "frequency": 7,
+    "example": "募金で集めたお金は１円たりとも無駄にできない。",
+    "example_translation": "We can’t waste even one yen of the money collected at the fund-raising."
+  },
+  {
+    "expression": "でなくてなんだろう",
+    "meaning": "must be; is definitely",
+    "frequency": 2,
+    "example": "彼女に対するこの気持ちは、愛でなくてなんだろう。",
+    "example_translation": "This feeling of mine for her must be love."
+  },
+  {
+    "expression": "ときたら",
+    "meaning": "when it comes to; concerningl",
+    "frequency": 9,
+    "example": "アンソニーときたら、大ばかですよ！",
+    "example_translation": "Anthony’s a fool!"
+  },
+  {
+    "expression": "とはいえ",
+    "meaning": "nonetheless; though; although; be that as it may",
+    "frequency": 22,
+    "example": "１２月に入ったとはいえ、まだ年末という気がしない。",
+    "example_translation": "Although it’s already December, I don’t feel like it’s the end of the year."
+  },
+  {
+    "expression": "にして",
+    "meaning": "only; even; in",
+    "frequency": 130,
+    "example": "彼女は４５歳にして母親になった。",
+    "example_translation": "She became a mother at age 45."
+  },
+  {
+    "expression": "ばこそ",
+    "meaning": "only because",
+    "frequency": 8,
+    "example": "社長は親切であればこそ十万円くれたのだ。",
+    "example_translation": "The president has given me 100.000 yen because he is good."
+  },
+  {
+    "expression": "まじき",
+    "meaning": "should not; must not",
+    "frequency": 4,
+    "example": "親を騙すなんて、子供にあるまじき行為だ。",
+    "example_translation": "Deceiving your parents is not acceptable."
+  },
+  {
+    "expression": "をおいて",
+    "meaning": "other than; without",
+    "frequency": 7,
+    "example": "まさか僕をおいてきぼりにするんじゃありますまいね。",
+    "example_translation": "You are not going to leave me behind."
+  },
+  {
+    "expression": "んがために",
+    "meaning": "in order to",
+    "frequency": 4,
+    "example": "ライオンは生きんがために、ほかの動物を食べる。",
+    "example_translation": "Lions eat other animals to survive."
+  },
+  {
+    "expression": "かぎりだ",
+    "meaning": "I feel so",
+    "frequency": 5,
+    "example": "世界中あちこちを旅行するなんて、うらやましい限りだ。",
+    "example_translation": "I’m so jealous of those who can travel around the world."
+  },
+  {
+    "expression": "極まる",
+    "meaning": "extremely",
+    "frequency": 2,
+    "example": "わたしは、彼の失礼きわまりない態度に我慢できなかった。",
+    "example_translation": "I can’t stand his rude attitude."
+  },
+  {
+    "expression": "てやまない",
+    "meaning": "always; never stop; cannot help but",
+    "frequency": 1,
+    "example": "親は子供の将来を期待してやまないものだ。",
+    "example_translation": "Parents always have high expectation for their kids’ future."
+  },
+  {
+    "expression": "といったらない",
+    "meaning": "very, extremely",
+    "frequency": 5,
+    "example": "成人の日に着物を着た彼女の美しさといったらなかった。",
+    "example_translation": "She looked so beautiful in her kimono on the Coming of Age Day."
+  },
+  {
+    "expression": "にはあたらない",
+    "meaning": "it's not worth; no need to",
+    "frequency": 8,
+    "example": "そんなことはべつにたいして驚くにはあたらないことだ。",
+    "example_translation": "I can’t be greatly surprised about that."
+  },
+  {
+    "expression": "にかたくない",
+    "meaning": "it’s not hard to",
+    "frequency": 4,
+    "example": "愛する人を失った彼女の悲しみは察するにかたくない。",
+    "example_translation": "It’s not hard to guess how sad she is for losing her loved one."
+  },
+  {
+    "expression": "べからざる",
+    "meaning": "must not; should not; do not",
+    "frequency": 1,
+    "example": "経営者にとって決断力は欠くべからざるものである。",
+    "example_translation": "Decisiveness is important in a leader."
+  },
+  {
+    "expression": "までもない",
+    "meaning": "not necessary",
+    "frequency": 20,
+    "example": "言うまでもないが、鍵をかけておいたほうがいい。",
+    "example_translation": "I need hardly advise you to lock your door."
+  },
+  {
+    "expression": "を禁じ得ない",
+    "meaning": "cannot help but",
+    "frequency": 1,
+    "example": "わたしたちは、彼の突然の辞職に、戸惑いを禁じえない。",
+    "example_translation": "We can’t help but feel confused about his sudden resignation."
+  },
+  {
+    "expression": "ずにはおかない",
+    "meaning": "will definetly do something",
+    "frequency": 4,
+    "example": "今度こそ、本当のことを言わせないではおかないぞ。",
+    "example_translation": "I’ll definitely make you spill the truth this time."
+  },
+  {
+    "expression": "ずにはすまない",
+    "meaning": "will not be completed without",
+    "frequency": 2,
+    "example": "人の心を傷つけてしまったなら、謝らないではすまない。",
+    "example_translation": "When you hurt someone’s feelings, you must apologize."
+  },
+  {
+    "expression": "ないものでもない",
+    "meaning": "it is not enterely impossible",
+    "frequency": 3,
+    "example": "うそがばれてしまったら、本当のことを教えないではすまない。",
+    "example_translation": "When you get busted for your lies, you must tell the truth."
+  },
+  {
+    "expression": "きらいがある",
+    "meaning": "to have a tendency to",
+    "frequency": 5,
+    "example": "あんな高価なものを壊したのだから、弁償しないではすまない。",
+    "example_translation": "Since I broke such an expensive item, I must pay for it."
+  },
+  {
+    "expression": "しまつだ",
+    "meaning": "end up; in the end",
+    "frequency": 2,
+    "example": "うちの娘は、ダイエットのしすぎで病気になり、入院する始末だ。",
+    "example_translation": "My daughter overdid her diet and became sick. She ended up being admitted to the hospital."
+  },
+  {
+    "expression": "というとこころだ",
+    "meaning": "about",
+    "frequency": 2,
+    "example": "平均睡眠時間は８時間といったところだ。",
+    "example_translation": "The average sleeping hours is about 8 hours."
+  },
+  {
+    "expression": "ばそれまでだ",
+    "meaning": "it is over",
+    "frequency": 0,
+    "example": "この機械は水に弱い。水がかかればそれまでだ。",
+    "example_translation": "This machine is not water-resistant. It will be broken if you spill water on it."
+  },
+  {
+    "expression": "までのことだ",
+    "meaning": "it is over",
+    "frequency": 111,
+    "example": "わたしは落ちてるものを拾いあげたまでだ。",
+    "example_translation": "I have not stolen, I only picked up from the ground things that were lying there."
+  },
+  {
+    "expression": "を余技なくされる",
+    "meaning": "to be forced to do something",
+    "frequency": 1,
+    "example": "道路拡張の工事のために、この周辺の人々は引越しを余儀なくされた。",
+    "example_translation": "Due to highway extension construction, the people in this area were forced to move."
+  },
+  {
+    "expression": "ないともかぎらない",
+    "meaning": "might",
+    "frequency": 3,
+    "example": "しっかり鍵をかけないと、泥棒に入られないとも限らない。",
+    "example_translation": "If you don’t lock the door properly, a thief might get in."
+  },
+  {
+    "expression": "にこしたことはない",
+    "meaning": "it is best that",
+    "frequency": 0,
+    "example": "用心に越したことはないですよ。",
+    "example_translation": "It’s best to be careful."
+  },
+  {
+    "expression": "もさしつかえない",
+    "meaning": "it is okay if",
+    "frequency": 1,
+    "example": "少し待っても差し支えない、と彼は思った。",
+    "example_translation": "He saw no inconvenience in waiting a while longer."
+  },
+  {
+    "expression": "言わすもがな",
+    "meaning": "as well not to",
+    "frequency": 0,
+    "example": "あの人の書く文章には無くもがなといえる言葉が多い。",
+    "example_translation": "In his writings, there are a number of words which might better have been left out."
+  },
+  {
+    "expression": "ではかなわない",
+    "meaning": "cannot be possible without",
+    "frequency": 0,
+    "example": "隣の工事がうるさくてかなわない。",
+    "example_translation": "I can’t stand the noise from the construction going on next door."
+  },
+  {
+    "expression": "てみせる",
+    "meaning": "will do something",
+    "frequency": 2,
+    "example": "これ以上言うのはよそう。だが、こんども必ず切りぬけてみせるよ！",
+    "example_translation": "I won’t say more than that but I’ll definitely get out of this one!"
+  },
+  {
+    "expression": "なくはない",
+    "meaning": "it is not impossible",
+    "frequency": 2,
+    "example": "自信がなくはないが、ただちょっと緊張している。",
+    "example_translation": "It’s not that I have no confidence, I’m just a little nervous."
+  },
+  {
+    "expression": "はばからない",
+    "meaning": "having no hesitation in declaring something",
+    "frequency": 1,
+    "example": "彼ははばからない。",
+    "example_translation": "He has no hesitation in declaring that."
+  },
+  {
+    "expression": "やら",
+    "meaning": "such thing as",
+    "frequency": 27,
+    "example": "あの人は来るのやら来ないのやら、さっぱり分からない。",
+    "example_translation": "I don’t know if that person’s coming or not."
+  },
+  {
+    "expression": "ようものなら",
+    "meaning": "if one chooses to; if one happens to",
+    "frequency": 3,
+    "example": "昔は親に反抗しようものなら、すぐにたたかれたものだ。",
+    "example_translation": "In the past, you’d be severely criticized if you tried to oppose your parents."
+  },
+  {
+    "expression": "割りに",
+    "meaning": "despite; although; unexpectedly",
+    "frequency": 2,
+    "example": "彼は年のわりには若く見える。",
+    "example_translation": "He looks young for his age."
+  },
+  {
+    "expression": "かいもなく",
+    "meaning": "even though",
+    "frequency": 2,
+    "example": "待ったかいもなく、彼はとうとう帰ってこなかった。",
+    "example_translation": "Even though I waited; he didn’t return."
+  },
+  {
+    "expression": "ずじまい",
+    "meaning": "never; did not",
+    "frequency": 3,
+    "example": "アイデアはよかったが、実現せずじまいだった。",
+    "example_translation": "It was a good idea, but it came to nothing."
+  },
+  {
+    "expression": "だけまし",
+    "meaning": "one should feel grateful for",
+    "frequency": 1,
+    "example": "今度のアルバイト、時給は安いけど、交通費が出るだけましです。",
+    "example_translation": "This part-time job pays low but I’m grateful they pay for my travelling expenses."
+  },
+  {
+    "expression": "にかこつけて",
+    "meaning": "dakemashone should feel grateful fori",
+    "frequency": 0,
+    "example": "彼は自分が風邪をひいていることにかこつけて、彼女を家に呼んだ。",
+    "example_translation": "He used his cold as the excuse to invite her to his house."
+  },
+  {
+    "expression": "にとどまらず",
+    "meaning": "it does not stop there",
+    "frequency": 0,
+    "example": "それはひとつの苦痛にとどまらず、ひとつの苦役でもあった。",
+    "example_translation": "It was not only an affliction, but it was also an unpleasant duty."
+  },
+  {
+    "expression": "のなんのと",
+    "meaning": "extremely",
+    "frequency": 0,
+    "example": "怖いのなんのって。",
+    "example_translation": "It’s very frightening."
+  },
+  {
+    "expression": "をふまえて",
+    "meaning": "based on",
+    "frequency": 2,
+    "example": "消費者の意見を踏まえて商品開発をしましょう。",
+    "example_translation": "Let’s develop new products based on the consumers’ opinions."
+  },
+  {
+    "expression": "んだって",
+    "meaning": "I heart that",
+    "frequency": 27,
+    "example": "彼女、休みには会いに来るんだって。",
+    "example_translation": "I heard that she is coming during the break."
+  },
+  {
+    "expression": "というもの",
+    "meaning": "during/for/since/over a period of time",
+    "frequency": 28,
+    "example": "彼女はここ一ヶ月というもの、授業を休んでいる。",
+    "example_translation": "She’s been absent from school for the past month."
+  },
+  {
+    "expression": "ことだし",
+    "meaning": "since; because",
+    "frequency": 2,
+    "example": "時間もあることだし、お茶でも飲みましょうよ。",
+    "example_translation": "Since we still have time, let’s drink tea or something."
+  },
+  {
+    "expression": "てでも",
+    "meaning": "even if I have to; by all means",
+    "frequency": 4,
+    "example": "家を売ってでも留学に行きたいです。",
+    "example_translation": "I want to study abroad even if I have to sell my house."
+  },
+  {
+    "expression": "てまえ",
+    "meaning": "before; in front of; one’s standpoint",
+    "frequency": 0,
+    "example": "線路の手前を左に曲がってください。",
+    "example_translation": "Please turn left in front of the railway track."
+  },
+  {
+    "expression": "てまで",
+    "meaning": "even",
+    "frequency": 3,
+    "example": "彼は借金してまで遊びに行ったと聞いた。",
+    "example_translation": "I heard that he even borrowed money to travel."
+  },
+  {
+    "expression": "をおして",
+    "meaning": "although",
+    "frequency": 0,
+    "example": "私の妹は両親の反対を押して結婚した。",
+    "example_translation": "Although her parents against, my sister got married."
+  },
+  {
+    "expression": "をへて",
+    "meaning": "through",
+    "frequency": 1,
+    "example": "わたしたちは５年の交際期間を経て結婚した。",
+    "example_translation": "We married after dating for 5 years."
+  }
+]
